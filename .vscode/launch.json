@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "cosecha_app (proyecto Laboratorio 2)",
+            "cwd": "cosecha_app (proyecto Laboratorio 2)",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "cosecha_app (proyecto Laboratorio 2) (profile mode)",
+            "cwd": "cosecha_app (proyecto Laboratorio 2)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "cosecha_app (proyecto Laboratorio 2) (release mode)",
+            "cwd": "cosecha_app (proyecto Laboratorio 2)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
